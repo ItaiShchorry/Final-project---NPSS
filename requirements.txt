@@ -1,0 +1,13 @@
+python 3.6
+cython 0.27.3
+numpy 1.13.1
+pyworld 0.2.2
+cffi 1.10
+pyparser 2.18
+soundfile
+
+
+script to install all dependencies:
+conda install cffi,numpy
+pip install pyworld
+pip instal soundfile
